@@ -160,3 +160,34 @@ header {
   background-repeat: no-repeat;
   background-size: contain;
 }
+
+.progress {
+    position: relative;
+    height: 25px;
+    margin: 0px 30px 30px 30px;
+}
+
+.progress-bar {
+    background-color: #72e7ed;
+
+}
+
+.cv-download {
+    text-align: center;
+    padding: 30px;
+}
+
+#circle-container{
+  width: 300px;
+  height: 300px;
+  padding: 30px;
+  border-style: solid;
+  border-color: #cccccc;
+  border-width: 1px;
+  border-radius: 50%;
+  margin: 0 auto;
+  background: url("../images/_hawa.png") no-repeat center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
