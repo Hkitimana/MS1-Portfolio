@@ -1,3 +1,43 @@
 @import url("https://fonts.googleapis.com/css2?family=Delius+Swash+Caps&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400&display=swap");
 
 /*----------Header----------*/
+
+header {
+     margin: 0;
+     padding: 0;
+ }
+
+ /*----------Home----------*/
+
+ .box {
+    background: url("../images/new-background.jpg") no-repeat center center fixed;
+    display: table;
+    height: 100vh;
+    position: relative;
+    width: 100%;
+    background-size: cover;
+}
+
+.landing-text {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.landing-text h1 {
+    font-size: 400%;
+    font-weight: 700;
+    font-family: "Delius", sans-serif;
+    letter-spacing: 5px;
+    margin-bottom: 15px;
+    animation: button 3s 1;
+}
+
+.landing-text h3 {
+    letter-spacing: 3px;
+    margin-bottom: 20px;
+}
+
+.button {
+    letter-spacing: 2px;
+}
