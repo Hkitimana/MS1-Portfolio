@@ -191,3 +191,26 @@ header {
   background-size: contain;
 }
 
+/*----------About----------*/
+
+.project-image {
+  height: 50vh;
+  width: 100vw;
+} 
+
+.col-md {
+    padding: 5px 5px 5px;
+}
+
+.card-body {
+    background-color: #c6c9c9;
+}
+
+.card-img-top {
+    width: 200px;
+    height: 150px;
+}
+
+.bg-color-projects {
+    background-color: #c8dada;
+}
