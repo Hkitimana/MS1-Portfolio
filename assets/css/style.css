@@ -58,3 +58,69 @@ header {
 }
 
 /*----------Navbar----------*/
+
+.menu-bar {
+    padding: 7px 10px;
+    background-color: #afdde6;
+}
+
+.nav-link:hover {
+    color: #fff !important;
+}
+
+.navbar-links ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.navbar-brand {
+    font-size: 20px;
+    text-transform: uppercase;
+    font-family: "Delius Swash Caps", sans-serif;
+    letter-spacing: 1px;
+    padding-left: 0px;
+}
+
+.toggle-button {
+    position: absolute;
+    top: 0.75rem;
+    right: 1rem;
+    display: none;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 30px;
+    height: 21px;
+}
+
+.toggle-button .bar {
+    height: 3px;
+    width: 100%;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+@media (max-width: 600px) {
+    .toggle-button {
+        display: flex;
+    }
+
+.nav-link {
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+}
+
+    .navbar-links ul {
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .navbar-links li {
+        text-align: center;
+    }
+
+    .navbar-links li a {
+        padding: 0.5rem 1rem;
+    }
+
+}
