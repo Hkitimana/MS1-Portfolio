@@ -164,7 +164,7 @@ header {
 .progress {
     position: relative;
     height: 25px;
-    margin: 0px 30px 30px 30px;
+    margin: 30px 30px 30px 30px;
 }
 
 .progress-bar {
@@ -191,7 +191,7 @@ header {
   background-size: contain;
 }
 
-/*----------About----------*/
+/*----------projects----------*/
 
 .project-image {
   height: 50vh;
@@ -213,4 +213,30 @@ header {
 
 .bg-color-projects {
     background-color: #c8dada;
+}
+
+/*----------projects----------*/
+
+.contact-heading {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.contact-heading {
+    font-family: "Oswald", sans-serif;
+    font-weight: 300;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.center-form {
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 70%;
+}
+
+.bg-color-contact {
+    background-color: #c7d4d4;
 }
