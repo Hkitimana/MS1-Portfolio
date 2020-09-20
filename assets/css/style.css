@@ -41,3 +41,20 @@ header {
 .button {
     letter-spacing: 2px;
 }
+
+@keyframes button {
+    0% {
+        margin-bottom: -40px;
+    }
+    50% {
+        letter-spacing: 20px;
+        margin-bottom: -40px;
+    }
+    100% {
+        letter-spacing: 8px;
+        margin-bottom: -20px;
+
+    }
+}
+
+/*----------Navbar----------*/
