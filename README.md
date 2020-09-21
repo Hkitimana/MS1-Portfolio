@@ -186,3 +186,32 @@ To deploy the project using Github Pages  I used the process below:
 
 https://hkitimana.github.io/MS1-Portfolio/.
 
+---
+
+## Credits
+
+### Content
+
+Where code has been copied from an external source, I have referenced this in the code through comments.  In many cases, the copied snippet has been amended from the source in order to achieve the desired result for this project.  I have listed the various sources below as well.
+
+**Head**
+- All CDN links copied from the respective sources - see links above in the **"Technologies Used"** section.
+- The FavIcon code snippet was generated and copied across from the [FavIcon website](https://www.favicon.io/).
+
+**Header**
+- In the header, the nav element code used to create a toggle menu on small screen sizes was copied from [Bootstrap](https://getbootstrap.com/docs/4.5/components/navbar/#nav).
+
+### Media
+- The images used in this site  throughout the projects are from the [Usplash website] (https://unsplash.com/)
+
+### Acknowledgements
+
+- I received inspiration for this project from the CV project in the User Centric Front End Development module.
+
+- I have also used inspiration for my project from (https://www.mockplus.com/blog/post/web-developer-portfolio) specifically used (http://findmatthew.com/)
+to get inspiration and a better understanding of how to code a timeline correctly by looking at the code examples to see how they were put together.
+
+- I received help and feedback from my mentor Felipe Souza Alarcon
+
+
+
