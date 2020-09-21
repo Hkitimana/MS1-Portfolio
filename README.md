@@ -7,7 +7,10 @@ highlight my skills and experience without going into too much detail.
 
 I have however provided a link to download and view my CV for those wanting to know more about me and my previous experiences. 
 
-Screenshot of final website on different screens: (add link to images)
+Screenshot of final website on different screens:
+ 
+ [Websitemockup] (assets/images/Final-website-mockup.png)
+ 
 
 ---
 
@@ -146,7 +149,7 @@ On big screen the image should appear on the left side of the page and the progr
 
 ### CSS validation:
 
-Passed (Add link)
+Passed (https://github.com/Hkitimana/MS1-Portfolio/blob/master/Documentation/css%20validation%20.png)
 
 ### Browsers tested
 
