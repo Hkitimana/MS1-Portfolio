@@ -125,6 +125,8 @@ On big screen the image should appear on the left side of the page and the progr
 ### Contact:
 - On the contacts page I have tested to make sure that all fields need to be filled in before you can submit the form. This was done by adding the required option on the input elements in the code.
 
+---
+
 ## Code Validation
 
 ### CSS Validation:
@@ -153,3 +155,34 @@ The site was tested on the below browsers, using the dev tools of each browser t
 
 - Firefox - Passed
 - Chrome - Passed
+- Safari - Passed
+- Microsoft Edge - Passed
+
+- Responsiveness was tested on MacBook Pro, iPhone and iPad. Desktop/Mobile OS compatibility was tested on macOS 10.14/15, iOS 13 and Windows 7.
+
+The site URL was shared with friends and family and they were asked to test usability and to report back with any issues they may have experienced. No problems were reported back.
+
+---
+
+## Deployment
+
+I uploaded the project files to Github and deployed the site using Github pages.
+
+To upload the project to Github I used the process below:
+
+1. Downloaded and installed the Github Desktop application. Logged into my Github account.
+2. Installed the Github package into Atom, and connected to my Github account.
+3. Staged the changes to the sites pages using the Atom Github package and added the Commit message.
+4. Pushed the changes to the online repository using Github Desktop.
+
+To deploy the project using Github Pages  I used the process below:
+
+1. Logged into my GitHub account
+2. Clicked on the link to the project repository.
+3. Clicked on the Settings link in the project repository.
+4. Scrolled down until I found the Github Pages section.
+5. Selected Master from the Branch dropdown menu under Source and clicked Save.
+6. After a few minutes the link for the published page appeared, which is:
+
+https://hkitimana.github.io/MS1-Portfolio/.
+
