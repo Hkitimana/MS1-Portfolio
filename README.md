@@ -135,3 +135,21 @@ On big screen the image should appear on the left side of the page and the progr
             alt="Valid CSS!" />
     </a>
 </p> - PASSED
+
+### HTML validation: (Add LINKS)
+
+- Home page: Warning
+- About page: Warning
+- Projects Page: PASSED
+- Contact page: PASSED
+
+### CSS validation:
+
+Passed (Add link)
+
+### Browsers tested
+
+The site was tested on the below browsers, using the dev tools of each browser to check the responsiveness. This was achieved using the various device sizes available within each browsers tools.
+
+- Firefox - Passed
+- Chrome - Passed
