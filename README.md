@@ -51,11 +51,10 @@ If I was to continue the development of this website, I would look to add:
 The main design difference between the mockups and the finished site was to the projects page. I did not feel it was a good idea to 
 to just add the card and link the project,so I add a brief discription of the project and the technologies used to create the project.
 
-Basic Wireframes: (Add link to wireframes)
+Basic Wireframes:
 
-- 
-- 
-- 
+- [Tablet Wireframe](https://github.com/Hkitimana/MS1-Portfolio/blob/master/Documentation/wireframes%201.png)
+- [Desktop and mobile Wireframe](https://github.com/Hkitimana/MS1-Portfolio/blob/master/Documentation/Wireframes%202.png)
 
 ---
 
