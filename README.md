@@ -141,10 +141,10 @@ On big screen the image should appear on the left side of the page and the progr
 
 ### HTML validation: (Add LINKS)
 
-- Home page: Warning
-- About page: Warning
-- Projects Page: PASSED
-- Contact page: PASSED
+- Home page: PASSED (https://github.com/Hkitimana/MS1-Portfolio/blob/master/Documentation/Home%20page.png)
+- About page: PASSED (https://github.com/Hkitimana/MS1-Portfolio/blob/master/Documentation/About%20page%20.png)
+- Projects Page: PASSED (https://github.com/Hkitimana/MS1-Portfolio/blob/master/Documentation/Projects%20page.png)
+- Contact page: PASSED (https://github.com/Hkitimana/MS1-Portfolio/blob/master/Documentation/Contact%20page.png)
 
 ### CSS validation:
 
