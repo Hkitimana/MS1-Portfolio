@@ -8,9 +8,8 @@ highlight my skills and experience without going into too much detail.
 I have however provided a link to download and view my CV for those wanting to know more about me and my previous experiences. 
 
 Screenshot of final website on different screens:
- 
- [Websitemockup] (assets/images/Final-website-mockup.png)
- 
+[Websitemockup](assets/images/Final-website-mockup.png)
+
 
 ---
 
