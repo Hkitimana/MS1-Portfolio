@@ -215,13 +215,13 @@ header {
     background-color: #c8dada;
 }
 
-/*----------projects----------*/
+/*----------contact----------*/
 
 .contact-heading {
     font-family: "Roboto", sans-serif;
     font-weight: 300;
     margin-top: 50px;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
 }
 
 .contact-heading {
@@ -235,8 +235,47 @@ header {
     padding-top: 10px;
     margin: 0 auto;
     max-width: 70%;
+    padding-bottom: 33px;
 }
 
 .bg-color-contact {
     background-color: #c7d4d4;
+}
+
+/*----------footer----------*/
+
+footer {
+    background-color: #0b172a;
+    color: #ffffff;
+    margin-top: 20px;
+}
+
+.footer-social {
+    border-top: 1px solid #72e7ed;
+    padding:18px 0;
+}
+
+.social-networks {
+    text-align: center;
+}
+  
+.social-networks li {
+    display: inline;
+}
+  
+.social-networks i {
+    font-size: 170%;
+    padding: 0.5%;
+    color: #ffffff;
+}
+
+.social-networks i:hover {
+    color: #72e7ed;
+    transition: 0.3s;
+}
+
+.footer-social p {
+    color: #72e7ed;
+    font-family: 'Exo', sans-serif;
+    font-size: 80%;
 }
